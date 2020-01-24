@@ -1,0 +1,16 @@
+{
+  "name": "dramz",
+  "version": "1.0.0",
+  "description": "dramz playground",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahmed atef",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "chartjs": "^0.3.24",
+    "mixitup": "3.3.1"
+  }
+}
